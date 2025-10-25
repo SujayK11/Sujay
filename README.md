@@ -1,6 +1,6 @@
 <!-- GitHub Profile README: Sujay K -->
 
-<h2 align="center">👋 Hey, I'm Sujay K</h2>
+<h2 align="center">👋 Hey There, I'm Sujay K</h2>
 
 <p align="center">
   🎓 <b>B.Tech in Artificial Intelligence & Machine Learning</b><br>
